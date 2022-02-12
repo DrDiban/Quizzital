@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quizzital/static/css/main.dd3e6f08.css",
+    "main.js": "/quizzital/static/js/main.43eee1e1.js",
+    "index.html": "/quizzital/index.html",
+    "main.dd3e6f08.css.map": "/quizzital/static/css/main.dd3e6f08.css.map",
+    "main.43eee1e1.js.map": "/quizzital/static/js/main.43eee1e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd3e6f08.css",
+    "static/js/main.43eee1e1.js"
+  ]
+}
