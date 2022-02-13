@@ -2,6 +2,7 @@ import React from 'react'
 import Buttons from "./Buttons.js"
 
 
+
 export default function Question(props){
     
     const quesAnswer = props.answer.map(ans => {

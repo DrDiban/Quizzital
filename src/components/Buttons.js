@@ -1,10 +1,12 @@
 import React from 'react'
 
 
+
 export default function Buttons(props){
-    console.log(props.submitState)
+    console.log(props.state)
+    console.log("state")
     const styles = {
-        backgroundColor: props.state ? "#D6DBF5" : "#F5F7FBpp",
+        backgroundColor: props.state ? "#D6DBF5" : "#F5F7FB",
         border:props.state ?"0.771045px solid #D6DBF5": "0.771045px solid #4D5B9E"
     }
     function styleSubmit(){
